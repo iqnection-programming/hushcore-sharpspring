@@ -1,1 +1,3 @@
-# hushcore-style-sheets
+# Hushcore Sharpsping Pages Code
+
+Figured it should go somehwheres...
